@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UI_Test" duration-ms="31864" started-at="2022-01-15T13:24:51Z" finished-at="2022-01-15T13:25:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31864" started-at="2022-01-15T13:24:51Z" finished-at="2022-01-15T13:25:22Z">
+      <class name="UI_Test">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:UI_Test@cf57e3]" name="setDriver" is-config="true" duration-ms="2574" started-at="2022-01-15T13:24:51Z" finished-at="2022-01-15T13:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="NavigateHomePage()[pri:0, instance:UI_Test@cf57e3]" name="NavigateHomePage" duration-ms="29256" started-at="2022-01-15T13:24:53Z" finished-at="2022-01-15T13:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateHomePage -->
+        <test-method status="PASS" signature="tearPageDown()[pri:0, instance:UI_Test@cf57e3]" name="tearPageDown" is-config="true" duration-ms="1" started-at="2022-01-15T13:25:22Z" finished-at="2022-01-15T13:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearPageDown -->
+      </class> <!-- UI_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- UI_Test -->
+</testng-results>
